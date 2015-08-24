@@ -19,14 +19,11 @@ The following **required** functionality is completed:
 	
 The following **optional** features are implemented:
 
-* [ ] Advanced: User can add a new bathroom information
 	
 ## Wireframes
 
-<img src='https://raw.githubusercontent.com/YesGood/ShitIn/master/wireframe/MainPage.png' title='Main' width='' alt='Main' />
+<img src='images/page1.png' title='Main' width='' alt='Main' />
+<img src='images/page2.png' title='Main' width='' alt='Main' />
+<img src='images/page3.png' title='Main' width='' alt='Main' />
+<img src='images/page4.png' title='Main' width='' alt='Main' />
 
-<img src='https://raw.githubusercontent.com/YesGood/ShitIn/master/wireframe/CheckIn.png' title='CheckIn' width='' alt='CheckIn' />
-
-<img src='https://raw.githubusercontent.com/YesGood/ShitIn/master/wireframe/setting.png' title='Setting' width='' alt='Setting' />
-
-<img src='https://raw.githubusercontent.com/YesGood/ShitIn/master/wireframe/report.png' title='Report' width='' alt='Report' />
