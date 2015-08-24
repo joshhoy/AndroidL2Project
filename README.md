@@ -26,4 +26,6 @@ The following **optional** features are implemented:
 <img src='images/page2.png' title='Main' width='' alt='Main' />
 <img src='images/page3.png' title='Main' width='' alt='Main' />
 <img src='images/page4.png' title='Main' width='' alt='Main' />
+<img src='images/page5.png' title='Main' width='' alt='Main' />
+<img src='images/page6.png' title='Main' width='' alt='Main' />
 
